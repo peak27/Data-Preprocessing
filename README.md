@@ -19,7 +19,7 @@ This repository consists of Data Preprocessing  techniques such as Importing Lib
   * R (For R implementation)
 
 ## Usage
-&nbsp;&nbsp;&nbsp;&nbsp;Data Preprocessing is extremely crucial and important step of any data modeling steps therefore you can use these codes to refine and preprocess your dataset throughout any of your statistical model building using Python and R.
+&nbsp;&nbsp;&nbsp;&nbsp;Data Preprocessing is extremely crucial and important step of any data modeling steps therefore you can use these codes to refine and preprocess your dataset throughout any of your statistical model building process using Python and R.
 
 ## Contributing
 &nbsp;&nbsp;&nbsp;You can implement these transformation on your existing model to see if it is going to increase accuracy of the model.
