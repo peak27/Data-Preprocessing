@@ -10,7 +10,7 @@ This repository consists of Data Preprocessing  techniques such as Importing Lib
 &nbsp;&nbsp;&nbsp;&nbsp;Explanation of importing required libraries and creating the dependent and independent variables metrices, dealing with missing value in a data frame with mean, median or mode depending on the variable type of the column, Encoding categorical variable to provide them numeric values, Splitting of test and training sets for the model training process and feature scaling to normalize independent variables.
 
 
-##Installation 
+## Installation 
 &nbsp;&nbsp;&nbsp;&nbsp;In order to be able to apply these transformations and methods to your dataset you need to have following tools and libraries:
   * Python 2.x or Python 3.x
   * Pandas
