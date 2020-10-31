@@ -24,8 +24,4 @@ This repository consists of Data Preprocessing  techniques such as Importing Lib
 ## Contributing
 &nbsp;&nbsp;&nbsp;You can implement these transformation on your existing model to see if it is going to increase accuracy of the model.
 
-## Credits 
-&nbsp;&nbsp;&nbsp;This was an individual project.
-
-**License:** Licenced by me.
 
